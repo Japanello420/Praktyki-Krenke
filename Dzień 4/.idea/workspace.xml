@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -19,6 +26,42 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Zadanie 8">
+    <configuration name="Zadanie 5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Zadanie5" />
+      <module name="Dzień 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie 6" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Zadanie6" />
+      <module name="Dzień 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie 7" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Zadanie7" />
+      <module name="Dzień 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie 8" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Zadanie8" />
+      <module name="Dzień 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Zadanie 5" />
+      <item itemvalue="Application.Zadanie 6" />
+      <item itemvalue="Application.Zadanie 7" />
+      <item itemvalue="Application.Zadanie 8" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,5 +84,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
